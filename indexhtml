@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mon.css">
+    <title>CODER STRIKE</title>
+</head>
+<body>
+    <img src="https://img.hotimg.com/Creative-1-1.png" alt="Creative-1-1.png" 
+    width="250"
+    height="150"/>
+    <img src="https://img.hotimg.com/Presentation1.jpeg" alt="Presentation1.jpeg"/>
+    <h5 class="q">HOME</h5>
+    <h5 class="r">ABOUT</h5>
+    <h5 class="s">FEATURES</h5>
+    <h5 class="t">CONTACT</h5>
+    <button id="mu" type="reset">GET STARTED</button>
+
+</body>
+</html>
