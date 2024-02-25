@@ -1,0 +1,52 @@
+body{
+    color:white;
+    background-color: black;
+}
+
+.q{
+    position:absolute;
+    top:20px;
+    left:300px;
+    font-size:1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.r{
+    position:absolute;
+    top:20px;
+    left:500px;
+    font-size:1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.s{
+    position:absolute;
+    top:20px;
+    left:700px;
+    font-size:1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.t{
+    position:absolute;
+    top:20px;
+    left:900px;
+    font-size:1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#mu{
+    border:1px solid white;
+    border-radius: 15px;
+    cursor: pointer;
+    color:azure;
+    background-color:transparent;
+    width: 250px;
+    position:absolute;
+    top:55px;
+    left:1075px;
+    font-size:2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#mu:hover {background-color: #3e718e}
+#mu:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
